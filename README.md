@@ -16,12 +16,11 @@ Unity Team 123
 
 ## Ürün İsmi
 
---Movie App--
+Uplift
 
 ## Ürün Açıklaması
 
 - Oyunumuz 2D platform-aksiyon kategorisinde, pixelart görüntü tarzında olup hikayesiyle ilgi çekebilecek tarzda bir oyundur. 
-+++++++++++++++
 
 ## Ürün Özellikleri
 
@@ -44,34 +43,19 @@ Unity Team 123
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. User Storyler'e genel bir puan verilerek Story'e ait Taskler toplamı bu puanı oluşturacak şekilde puanlanmıştır. User Story, bölünülen Taskler oklar yardımıyla ilişkilendirilmiştir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- Daily Scrum: Daily scrumlar discord üzerinden sesli olarak yapılmıştır. İleride yapılacak sprintler için oluşturduğumuz discord kanalında kararların bir kısmını yazıya dökerek Daily Scrum için yazılı kaynakların da bulunması hedeflenmiştir.
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- Sprint board update: Sprint board screenshotları: 
+![BackLog](https://user-images.githubusercontent.com/91667731/167486428-0122cba0-9916-4ed9-9718-e558c0954935.jpg)
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- Sprint Review: 
+Alınan kararlar: Oyun mekaniklerinin devamının tamamlanmasına ve oyunun ilk bölüm tasarımının tamamlanmasına karar verildi.
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
-
-- **Sprint board update**: Sprint board screenshotları: 
-
-
-- **Ürün Durumu**: Ekran görüntüleri:
- 
-
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
-
-- **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
-
--**Diğer Notlar**:
-- N/A
+- Sprint Retrospective:
+  - Alınacak kararların yazılı bir kaynakta da bulunması için yazışmaların discord kanalı üzerinden yapılmasına karar verildi.
+  - Bu sprint yakılmayan puanların tamamlanması ve diğer sprint için hedefin tutturulması için karar alınmıştır.
 
 ---
 
