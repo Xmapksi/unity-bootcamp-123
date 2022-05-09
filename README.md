@@ -20,22 +20,21 @@ Unity Team 123
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Oyunumuz 2D platform-aksiyon kategorisinde, pixelart görüntü tarzında olup hikayesiyle ilgi çekebilecek tarzda bir oyundur. 
++++++++++++++++
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- 2 Boyutlu.
+- Platform-aksiyon kategorisinde.
+- Pixelart sanat dizaynına sahip.
+- Hikaye anlatımına sahip.
+- Oyunun temel mekanikleri koşma, zıplama, dash, tutunma, saldırıdır. 
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- 7 yaş ve üzeri için.
+
 
 ## Product Backlog URL
 
