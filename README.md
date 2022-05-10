@@ -48,7 +48,9 @@ The Healing Knight
 -Sprint içinde tamamlanması tahmin edilen puan: 50 Puan
 
 
-- Daily Scrum: Daily scrumlar discord üzerinden sesli olarak yapılmıştır. İleride yapılacak sprintler için oluşturduğumuz discord kanalında kararların bir kısmını yazıya dökerek Daily Scrum için yazılı kaynakların da bulunması hedeflenmiştir.
+- Daily Scrum: Daily scrumlar discord üzerinden sesli olarak yapılmıştır. Konuşmalar sırasında birbirimize önerdiğimiz oyun fikirlerinin ekran görüntüleri alınarak dosyaya eklenmiştir ayrıca son toplantımızda oyunumuzun ismi konusunda son iki fikrimizin de ekran görüntüsü vardır. İleride yapılacak sprintler için oluşturduğumuz discord kanalında kararların bir kısmını yazıya dökerek Daily Scrum için yazılı kaynakların da bulunması hedeflenmiştir.
+[team-123-sprint1-dailyscrum.pdf](https://github.com/Xmapksi/unity-bootcamp-123/files/8663462/team-123-sprint1-dailyscrum.pdf)
+
 
 - Sprint board update: Sprint board screenshotları: 
 ![BackLog](https://user-images.githubusercontent.com/91667731/167486428-0122cba0-9916-4ed9-9718-e558c0954935.jpg)
