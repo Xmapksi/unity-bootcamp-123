@@ -45,6 +45,9 @@ The Healing Knight
 
 - Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. User Storyler'e genel bir puan verilerek Story'e ait Taskler toplamı bu puanı oluşturacak şekilde puanlanmıştır. User Story, bölünülen Taskler oklar yardımıyla ilişkilendirilmiştir.
 
+-Sprint içinde tamamlanması tahmin edilen puan: 50 Puan
+
+
 - Daily Scrum: Daily scrumlar discord üzerinden sesli olarak yapılmıştır. İleride yapılacak sprintler için oluşturduğumuz discord kanalında kararların bir kısmını yazıya dökerek Daily Scrum için yazılı kaynakların da bulunması hedeflenmiştir.
 
 - Sprint board update: Sprint board screenshotları: 
@@ -52,6 +55,11 @@ The Healing Knight
 
 - Sprint Review: 
 Alınan kararlar: Oyun mekaniklerinin devamının tamamlanmasına ve oyunun ilk bölüm tasarımının tamamlanmasına karar verildi.
+Sprint Review katılımcıları:
+- Saliha Hatipoğlu
+- Burak Yakup Aksoy
+- Emre Can Kızılateş
+- Nida Öğür
 
 - Sprint Retrospective:
   - Alınacak kararların yazılı bir kaynakta da bulunması için yazışmaların discord kanalı üzerinden yapılmasına karar verildi.
