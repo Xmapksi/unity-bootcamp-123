@@ -70,9 +70,27 @@ Sprint Review katılımcıları:
 ---
 
 # Sprint 2
+Sprint Notları: 
+
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+Daily Scrum: 
+
+Sprint board update: Sprint board screenshotları: 
+![Sprint2_1 1](https://user-images.githubusercontent.com/91667731/169668936-552563e2-2c0c-458b-91f4-4caf94c6f858.jpg)
+![Sprint2_1 2](https://user-images.githubusercontent.com/91667731/169668941-c4ff9d65-68d5-4dbc-b382-792d21b86fdb.jpg)
+![Sprint2_1 3](https://user-images.githubusercontent.com/91667731/169668942-31cf28dc-ad80-40ec-b24b-7323dd85e0e0.jpg)
 
 
----
+Ürün Durumu: Ekran görüntüleri: 
+
+Sprint Review: Alınan kararlar: 
+
+Sprint Retrospective:
+
+-Diğer Notlar:
+
+N/A
 
 # Sprint 3
 
