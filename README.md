@@ -75,7 +75,8 @@ Sprint Notları:
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 Daily Scrum: Daily Scrumlar için beraber geliştirme yapan ekip üyeleri sürekli irtibat halinde kalmıştır. Bunun haricinde, üyeler Whatsapp, discord gibi ortamlarda sürekli yapılan işler ve tahmini bitirme süreleri ile ilgili bilgileri diğer takım arkadaşlarıyla paylaşmıştır.
-[Belge5 (1).pdf](https://github.com/Xmapksi/unity-bootcamp-123/files/8748363/Belge5.1.pdf)
+[Team-123_Sprint_2_ DailyScrum.pdf](https://github.com/Xmapksi/unity-bootcamp-123/files/8748367/Team-123_Sprint_2_.DailyScrum.pdf)
+
 
 
 Sprint board update: Sprint board screenshotları: 
