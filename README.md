@@ -70,7 +70,7 @@ Sprint Review katılımcıları:
 ---
 
 # Sprint 2
-Sprint Notları: 
+Sprint Notları: 2. Sprint için tasarımların ve kodlamaların daha net başlaması ve ilerletilmesi hedeflenmiştir. Bu doğrultuda yapılan toplantılar harici takım üyeleri sık sık yazılı olarak fikir alışverişinde bulunmuştur. 
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
@@ -86,6 +86,7 @@ Sprint board update: Sprint board screenshotları:
 
 
 Ürün Durumu: Ekran görüntüleri: 
+![hopeless_corridors_first_sketch_without_feedback](https://user-images.githubusercontent.com/91667731/169696268-1a43a8d7-e5f2-4361-95f7-cdce0ed8e0dc.png)
 
 Sprint Review: Alınan kararlar: 
 
