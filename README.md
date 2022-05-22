@@ -87,6 +87,9 @@ Sprint board update: Sprint board screenshotları:
 
 Ürün Durumu: Ekran görüntüleri: 
 ![hopeless_corridors_first_sketch_without_feedback](https://user-images.githubusercontent.com/91667731/169696268-1a43a8d7-e5f2-4361-95f7-cdce0ed8e0dc.png)
+![2 3](https://user-images.githubusercontent.com/91667731/169704867-f1a0880e-8e6f-4dd6-84ca-ccad115a48b5.png)
+![character-Sheet](https://user-images.githubusercontent.com/91667731/169704872-38792bb8-8f68-441f-95d4-37eb56a0ee38.png)
+
 
 Sprint Review: Alınan kararlar: 
 
