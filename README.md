@@ -92,8 +92,8 @@ Sprint board update: Sprint board screenshotları:
 
 
 - Sprint Review: Alınan kararlar: 
- - Sprint Review katılımcıları:
-   - 
+- Sprint Review katılımcıları:
+ - 
 - Sprint Retrospective:
 
 -Diğer Notlar:
