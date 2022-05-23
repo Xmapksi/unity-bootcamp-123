@@ -8,7 +8,7 @@ Unity Team 123
 
 ## Takım Elemanları
 
-- Saliha Hatipoğlu: Product Owner/Sound Designer
+- Saliha Hatipoğlu: Product Owner
 - Burak Yakup Aksoy: Scrum Master/Developer
 - Emre Can Kızılateş: Level Designer
 - Bekir Tuncer: Game Artist
@@ -91,14 +91,11 @@ Sprint board update: Sprint board screenshotları:
 ![character-Sheet](https://user-images.githubusercontent.com/91667731/169704872-38792bb8-8f68-441f-95d4-37eb56a0ee38.png)
 
 
-- Sprint Review: Alınan kararlar: 
-- Sprint Review katılımcıları:
- - 
-- Sprint Retrospective:
+- Sprint Review: Alınan kararlar: Yapılan oyun mekaniklerinin bölüm tasarımına uygun olarak daha akıcı hale getirilmesi gerektiği gözlenmiştir bu nedenle bölüm tasarımının unity üzerinden tasarımını yapılmasının öncelikli iş olduğu belirlenmiştir. Oyun içi bölüm tasarımlarına eklenecek düşmanların rotaları için tekrardan 3.sprite için bir toplantı yapılması gerektiğine karar verilmiştir. 
+  
+- Sprint Retrospective: Bir sonraki sprint için buton tasarımları ve düşman tasarımlarının son haline getirlimesi ve yapılan karakterin animasyonları ile birlikte oyuna aktatılması planlanmıştır. Bölüm tasarımının unity'e aktarılmasından sonra karakterin hareketlerinin testinin yapılması ve kullanıcı arayüzü ile birlikte seslerin eklenmesiyle oyunun tamamlanması hedeflenmiştir.
 
--Diğer Notlar:
 
-N/A
 
 # Sprint 3
 
