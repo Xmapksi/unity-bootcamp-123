@@ -91,9 +91,10 @@ Sprint board update: Sprint board screenshotları:
 ![character-Sheet](https://user-images.githubusercontent.com/91667731/169704872-38792bb8-8f68-441f-95d4-37eb56a0ee38.png)
 
 
-Sprint Review: Alınan kararlar: 
-
-Sprint Retrospective:
+- Sprint Review: Alınan kararlar: 
+ - Sprint Review katılımcıları:
+   - 
+- Sprint Retrospective:
 
 -Diğer Notlar:
 
