@@ -20,15 +20,14 @@ The Healing Knight
 
 ## Ürün Açıklaması
 
-- Oyunumuz 2D platform-aksiyon kategorisinde, pixelart görüntü tarzında olup hikayesiyle ilgi çekebilecek tarzda bir oyundur. 
+- Oyunumuz 2D platform-aksiyon kategorisinde, pixelart görüntü tarzında olup ilgi çekebilecek tarzda bir oyundur. 
 
 ## Ürün Özellikleri
 
 - 2 Boyutlu.
 - Platform-aksiyon kategorisinde.
 - Pixelart sanat dizaynına sahip.
-- Hikaye anlatımına sahip.
-- Oyunun temel mekanikleri koşma, zıplama, dash, tutunma, saldırıdır. 
+- Oyunun temel mekanikleri koşma, zıplama, dash ve saldırıdır. 
 
 ## Hedef Kitle
 
