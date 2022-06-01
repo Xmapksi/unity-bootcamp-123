@@ -99,4 +99,22 @@ Sprint board update: Sprint board screenshotları:
 
 # Sprint 3
 
----
+Sprint Notları: 
+
+Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+
+Daily Scrum: Daily Scrumlar için beraber geliştirme yapan ekip üyeleri sürekli irtibat halinde kalmıştır. Bunun haricinde, üyeler Whatsapp, discord gibi ortamlarda sürekli yapılan işler ve tahmini bitirme süreleri ile ilgili bilgileri diğer takım arkadaşlarıyla paylaşmıştır.
+
+Sprint board update: Sprint board screenshotları: 
+![Sprint3 1 1](https://user-images.githubusercontent.com/91667731/171440652-e4d3f26f-6553-4ba8-9a33-88eea3f83d67.jpg)
+![Sprint3 1 2](https://user-images.githubusercontent.com/91667731/171440659-40220afe-9e74-4746-9589-2ba6b5ff47f2.jpg)
+![Sprint3 1 3](https://user-images.githubusercontent.com/91667731/171440667-5024fa7e-0c8e-4aa3-9247-3a9d22746bbb.jpg)
+
+
+
+Ürün Durumu: Ekran görüntüleri: 
+
+
+- Sprint Review: Alınan kararlar: 
+  
+- Sprint Retrospective: 
