@@ -8,11 +8,11 @@ Unity Team 123
 
 ## Takım Elemanları
 
-- Saliha Hatipoğlu: Product Owner
-- Burak Yakup Aksoy: Scrum Master/Developer
+- Nida Öğür: Product Owner/Developer/UI Designer
+- Burak Yakup Aksoy: Scrum Master/Developer/Level Designer
 - Emre Can Kızılateş: Level Designer
-- Bekir Tuncer: Game Artist
-- Nida Öğür: Developer
+- Bekir Tuncer: UI Designer
+- Saliha Hatipoğlu: Story Writer
 
 ## Ürün İsmi
 
@@ -102,7 +102,7 @@ Sprint Notları:
 
 Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
 
-Daily Scrum: Daily Scrumlar için beraber geliştirme yapan ekip üyeleri sürekli irtibat halinde kalmıştır. Bunun haricinde, üyeler Whatsapp, discord gibi ortamlarda sürekli yapılan işler ve tahmini bitirme süreleri ile ilgili bilgileri diğer takım arkadaşlarıyla paylaşmıştır.
+Daily Scrum: Daily Scrumlar için ekip üyelerinin bir kısmı ile iletişim sağlanmıştır. Ekipte bulunan Developerlar ve level designer arası iletişim sürekli şekilde sağlanırken kalan ekip üyeleri 3.sprintte proje dahilinde herhangi bir katkıda bulunmamıştır. Oyun üzerinde çalışan ekip üyeleri iletişimlerini whatsapp ve discord üzerinde gerçekleştirmiştir.
 
 Sprint board update: Sprint board screenshotları: 
 ![Sprint3 1 1](https://user-images.githubusercontent.com/91667731/171440652-e4d3f26f-6553-4ba8-9a33-88eea3f83d67.jpg)
@@ -112,7 +112,6 @@ Sprint board update: Sprint board screenshotları:
 
 
 Ürün Durumu: Ekran görüntüleri: 
-
 
 - Sprint Review: Alınan kararlar: 
   
