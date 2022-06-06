@@ -113,7 +113,14 @@ Sprint board update: Sprint board screenshotları:
 ![Sprint3 1 4](https://user-images.githubusercontent.com/91667731/172185447-4cf15136-3bda-40dc-a901-9475667bacb0.jpg)
 
 
-Ürün Durumu: Ekran görüntüleri: 
+Ürün Durumu: Ekran görüntüleri:
+![The Healing Knight 1](https://user-images.githubusercontent.com/91667731/172210281-4a49edac-db1e-4889-9867-9540459e3575.jpg)
+![The Healing Knight 2](https://user-images.githubusercontent.com/91667731/172210289-617506e4-3a89-47ea-b3b2-4486bc666cfe.jpg)
+![The Healing Knight 3](https://user-images.githubusercontent.com/91667731/172210293-1a21b838-beaa-496e-8023-629e0a1a0997.jpg)
+![The Healing Knight 4](https://user-images.githubusercontent.com/91667731/172210303-681eeed9-bd62-48e1-9df6-d0fd5f3d37ee.jpg)
+![The Healing Knight 5](https://user-images.githubusercontent.com/91667731/172210310-4a2597f9-fd5a-4409-bcc8-31b0f7418e0b.jpg)
+![The Healing Knight 6](https://user-images.githubusercontent.com/91667731/172210332-8ee0081d-74ab-46d0-86a5-986c0fc1e289.jpg)
+![The Healing Knight 7](https://user-images.githubusercontent.com/91667731/172210347-27e9d327-609f-4958-9323-b7572b843991.jpg)
 
 - Sprint Review: Alınan kararlar: Bu sprintte oyunu tamamlayarak daha sonra getirebileceğimiz özellikler ile ilgili konuşuldu. Oyunun devam bölümleri ve yazılan hikayenin ileride eklenmesi için çalışmaların bir kısmı tamamlanmış olsa da bu özelliklerin bu sprint sonuna kadar tamamlanması sağlanamamıştır. Oyunumuza firebase, analytics eklenmiştir. Login-logout ve achievements için kodlar yazılmış ancak oyunun hesabı olmadığı için kodlar örnek olarak bırakmıştır.
   
