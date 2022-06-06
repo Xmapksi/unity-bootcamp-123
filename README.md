@@ -12,7 +12,7 @@ Unity Team 123
 - Burak Yakup Aksoy: Scrum Master/Developer/Level Designer
 - Emre Can Kızılateş: Level Designer
 - Saliha Hatipoğlu: Story Writer
-- Bekir Tuncer: --------
+- Bekir Tuncer: Tester
 
 ## Ürün İsmi
 
