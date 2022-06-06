@@ -19,7 +19,8 @@ Unity Team 123
 The Healing Knight
 
 ## Ürün Açıklaması
-
+- Oyunun Google Drive Linki : https://drive.google.com/file/d/1ZTPjxiATMrTkeEBdGY1nd4lVWzbh2yI3/view?usp=sharing
+- En kısa sürede github üzerinden proje paylaşılacaktır.
 - Oyunumuz 2D platform-aksiyon kategorisinde, pixelart görüntü tarzında olup ilgi çekebilecek tarzda bir oyundur. 
 
 ## Ürün Özellikleri
@@ -125,3 +126,6 @@ Sprint board update: Sprint board screenshotları:
 - Sprint Review: Alınan kararlar: Bu sprintte oyunu tamamlayarak daha sonra getirebileceğimiz özellikler ile ilgili konuşuldu. Oyunun devam bölümleri ve yazılan hikayenin ileride eklenmesi için çalışmaların bir kısmı tamamlanmış olsa da bu özelliklerin bu sprint sonuna kadar tamamlanması sağlanamamıştır. Oyunumuza firebase, analytics eklenmiştir. Login-logout ve achievements için kodlar yazılmış ancak oyunun hesabı olmadığı için kodlar örnek olarak bırakmıştır.
   
 - Sprint Retrospective: Yapım aşamalarındaki eksikliklerden dolayı ekip içerisindeki iletişim kopukluklarının önüne geçmenin ne kadar önemli olduğunu gözlemlemiş olduk. Ayrıca daha önceden planlanılanılan birçok özellikten vazgeçilmek zorunda kalınması nedeniyle başta planlanılan yol haritasının sprintler içerisinde sık sık değişmesi, bizi daha esnek çalışmaya itti ve bu sayede deneyim kazanmış olduk.
+
+- Oyunun Google Drive Linki : https://drive.google.com/file/d/1ZTPjxiATMrTkeEBdGY1nd4lVWzbh2yI3/view?usp=sharing
+- En kısa sürede github üzerinden proje paylaşılacaktır.
