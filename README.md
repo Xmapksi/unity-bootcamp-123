@@ -11,8 +11,8 @@ Unity Team 123
 - Nida Öğür: Product Owner/Developer/UI Designer
 - Burak Yakup Aksoy: Scrum Master/Developer/Level Designer
 - Emre Can Kızılateş: Level Designer
-- Bekir Tuncer: UI Designer
 - Saliha Hatipoğlu: Story Writer
+- Bekir Tuncer: --------
 
 ## Ürün İsmi
 
@@ -103,16 +103,18 @@ Sprint Notları:
 Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
 
 Daily Scrum: Daily Scrumlar için ekip üyelerinin bir kısmı ile iletişim sağlanmıştır. Ekipte bulunan Developerlar ve level designer arası iletişim sürekli şekilde sağlanırken kalan ekip üyeleri 3.sprintte proje dahilinde herhangi bir katkıda bulunmamıştır. Oyun üzerinde çalışan ekip üyeleri iletişimlerini whatsapp ve discord üzerinde gerçekleştirmiştir.
+[Sprint3 Daily Scrum.pdf](https://github.com/Xmapksi/unity-bootcamp-123/files/8845290/Sprint3.Daily.Scrum.pdf)
+
 
 Sprint board update: Sprint board screenshotları: 
 ![Sprint3 1 1](https://user-images.githubusercontent.com/91667731/171440652-e4d3f26f-6553-4ba8-9a33-88eea3f83d67.jpg)
 ![Sprint3 1 2](https://user-images.githubusercontent.com/91667731/171440659-40220afe-9e74-4746-9589-2ba6b5ff47f2.jpg)
 ![Sprint3 1 3](https://user-images.githubusercontent.com/91667731/171440667-5024fa7e-0c8e-4aa3-9247-3a9d22746bbb.jpg)
-
+![Sprint3 1 4](https://user-images.githubusercontent.com/91667731/172185447-4cf15136-3bda-40dc-a901-9475667bacb0.jpg)
 
 
 Ürün Durumu: Ekran görüntüleri: 
 
-- Sprint Review: Alınan kararlar: 
+- Sprint Review: Alınan kararlar: Bu sprintte oyunu tamamlayarak daha sonra getirebileceğimiz özellikler ile ilgili konuşuldu. Oyunun devam bölümleri ve yazılan hikayenin ileride eklenmesi için çalışmaların bir kısmı tamamlanmış olsa da bu özelliklerin bu sprint sonuna kadar tamamlanması sağlanamamıştır.
   
-- Sprint Retrospective: 
+- Sprint Retrospective: Oyunu geliştirmek ve daha iyi hale getirmek için elimizde hazır bulunan hikayenin oyuna aktarılması için çalışmalar sprint 2'nin sonunda başlamış olmalıydı, bu nedenle ekip içerisindeki iletişim kopukluklarının önüne geçmenin ne kadar önemli olduğunu gözlemlemiş olduk. Ayrıca daha önceden planlanılanılan birçok özellikten vazgeçilmek zorunda kalınması nedeniyle başta planlanılan yol haritasının sprintler içerisinde sık sık değişmesi, bizi daha esnek çalışmaya itti ve bu sayede deneyim kazanmış olduk.
