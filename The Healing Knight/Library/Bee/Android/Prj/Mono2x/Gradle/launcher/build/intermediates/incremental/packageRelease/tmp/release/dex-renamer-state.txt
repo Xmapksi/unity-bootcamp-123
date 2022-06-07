@@ -1,0 +1,4 @@
+#Sun Jun 05 11:59:55 EET 2022
+base.0=D\:\\Team123 Project\\indirilen\\Unity Team123\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
